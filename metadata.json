@@ -1,0 +1,6 @@
+{
+  "name": "RutaBus GT - Transporte Amatitlán",
+  "description": "Prototipo UI/UX interactivo del sistema de transporte de buses intermunicipal para Amatitlán, Villa Nueva, San Miguel Petapa, Mixco y Zona 12.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
